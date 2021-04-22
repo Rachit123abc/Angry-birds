@@ -60,3 +60,7 @@ function draw(){
 
     bird.display();
 }
+
+
+
+
